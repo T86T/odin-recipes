@@ -18,3 +18,9 @@ button {
     padding: 1%;
     
 }
+
+img {
+    display: block;
+    margin: auto;
+
+}
