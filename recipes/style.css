@@ -30,7 +30,7 @@ a{
 }
 
 img {
-    max-width: 612px;
+    max-width: 50%;
     height: Auto;
     display: block;
     margin: auto;
