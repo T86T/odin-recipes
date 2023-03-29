@@ -1,6 +1,7 @@
 body{
     font-family: Verdana, "Geneva", Tahoma, sans-serif;
     font-size: large;
+    background-color: black;
 }
 
 h1 {
@@ -8,18 +9,29 @@ h1 {
     text-align: center;
 }
 
-p {
-    text-align: center;
+p,h2,h3,li {
+    color: white;
 }
 
+h2,p {
+    text-align: center;
+}
+h3  {
+    text-decoration: underline;
+}
 button {
-    background-color: yellow;
+    background-color: red;
     font-weight: bold;
     padding: 1%;
     
 }
+a{
+    color: black;
+}
 
 img {
+    max-width: 612px;
+    height: Auto;
     display: block;
     margin: auto;
 
