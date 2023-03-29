@@ -1,6 +1,7 @@
 body{
     font-family: Verdana, "Geneva", Tahoma, sans-serif;
     font-size: large;
+    background-color: black;
 }
 
 h1 {
@@ -13,8 +14,19 @@ p {
 }
 
 button {
-    background-color: yellow;
+    background-color: red;
+    color: black;
     font-weight: bold;
     padding: 1%;
-    border: 20%;
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+    
+}
+
+a{
+    color: black;
 }
